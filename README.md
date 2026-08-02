@@ -91,10 +91,7 @@ cd Task-manager
 * **Location**: Biratnagar, Nepal
 
 
-* **Email**: [guruyugesh4@gmail.com](https://www.google.com/search?q=mailto%3Aguruyugesh4%40gmail.com)
-
-* **GitHub**: [@yugeshChaudhar](https://www.google.com/search?q=https://github.com/yugeshChaudhar)
-
+* **Email**: [guruyugesh4@gmail.com]
 
 ---
 
